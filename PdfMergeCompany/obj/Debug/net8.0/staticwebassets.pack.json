@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Maryum Urooj Ahmed\\Desktop\\PDF MERGER\\.text7-usecase\\pdfmergecompany\\wwwroot\\merged\\CompanyB_merged.pdf",
+      "PackagePath": "staticwebassets\\merged\\CompanyB_merged.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Maryum Urooj Ahmed\\Desktop\\PDF MERGER\\.text7-usecase\\pdfmergecompany\\wwwroot\\merged\\companyA_merged.pdf",
+      "PackagePath": "staticwebassets\\merged\\companyA_merged.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Maryum Urooj Ahmed\\Desktop\\PDF MERGER\\.text7-usecase\\pdfmergecompany\\wwwroot\\pdfs\\CompanyB\\ENT001_1120_1_2024_20250422_163237.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\CompanyB\\ENT001_1120_1_2024_20250422_163237.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Maryum Urooj Ahmed\\Desktop\\PDF MERGER\\.text7-usecase\\pdfmergecompany\\wwwroot\\pdfs\\CompanyB\\ENT001_1120_1_2024_20250428_105814 (1) (1).pdf",
+      "PackagePath": "staticwebassets\\pdfs\\CompanyB\\ENT001_1120_1_2024_20250428_105814 (1) (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Maryum Urooj Ahmed\\Desktop\\PDF MERGER\\.text7-usecase\\pdfmergecompany\\wwwroot\\pdfs\\companyA\\ENT001_1120_1_2024_20250428_105814 (1).pdf",
+      "PackagePath": "staticwebassets\\pdfs\\companyA\\ENT001_1120_1_2024_20250428_105814 (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Maryum Urooj Ahmed\\Desktop\\PDF MERGER\\.text7-usecase\\pdfmergecompany\\wwwroot\\pdfs\\companyA\\ENT001_1120_1_2024_20250428_105814 (2) (1).pdf",
+      "PackagePath": "staticwebassets\\pdfs\\companyA\\ENT001_1120_1_2024_20250428_105814 (2) (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Maryum Urooj Ahmed\\Desktop\\PDF MERGER\\.text7-usecase\\pdfmergecompany\\wwwroot\\pdfs\\companyA\\ENT001_1120_1_2024_20250428_105814 (2).pdf",
+      "PackagePath": "staticwebassets\\pdfs\\companyA\\ENT001_1120_1_2024_20250428_105814 (2).pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PdfMergeAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PdfMergeAPI.props",
+      "PackagePath": "build\\PdfMergeAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PdfMergeAPI.props",
+      "PackagePath": "buildMultiTargeting\\PdfMergeAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PdfMergeAPI.props",
+      "PackagePath": "buildTransitive\\PdfMergeAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
